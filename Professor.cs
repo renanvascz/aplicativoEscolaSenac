@@ -1,6 +1,8 @@
-using System.ComponentModel.Design;
+using System;
+using System.Collections.Generic; // Referência à lista
 
 namespace escola;
+
 public class Professor
 {
     public string? nome;
@@ -11,35 +13,31 @@ public class Professor
     private string? login;
     private string? senha;
 
-
-    public Professor CadastrarProfessor(Professor professorCadastro)
+    public Professor CadastrarProfessor()
     {
         Console.WriteLine("Digite o nome do Professor: ");
-        professorCadastro.nome = Console.ReadLine();
+        nome = Console.ReadLine();
         Console.WriteLine("Digite a data de nascimento: ");
-        professorCadastro.dataNascimento = Console.ReadLine() ?? "";
+        dataNascimento = Console.ReadLine() ?? "";
         Console.WriteLine("Digite o bairro: ");
-        professorCadastro.bairro = Console.ReadLine() ?? "";
+        bairro = Console.ReadLine() ?? "";
         Console.WriteLine("Digite o estado: ");
-        professorCadastro.estado= Console.ReadLine() ?? "";
+        estado = Console.ReadLine() ?? "";
         Console.WriteLine("Digite o País: ");
-        professorCadastro.pais = Console.ReadLine() ?? "";
+        pais = Console.ReadLine() ?? "";
         Console.WriteLine("Digite o login: ");
-        professorCadastro.login = Console.ReadLine() ?? "";
+        login = Console.ReadLine() ?? "";
         Console.WriteLine("Digite a senha: ");
-        professorCadastro.senha = Console.ReadLine() ?? ""; 
-        return professorCadastro;
-
+        senha = Console.ReadLine() ?? ""; 
+        return this; // Retorna o próprio objeto
     }
 
-    public void Menu(){
-        
-    }
-    public bool Login(List <Professor> listaProfessores)
+    public bool Login(List<Professor> listaProfessores)
     {
         int tentativas = 3;
 
-        do{
+        do
+        {
             Console.WriteLine("========TELA DE LOGIN========");
             Console.WriteLine("Digite seu Login: ");
             string? loginAtual = Console.ReadLine();
@@ -48,22 +46,19 @@ public class Professor
 
             foreach (var professor in listaProfessores)
             {
-                if(loginAtual==professor.login && senhaAtual == professor.senha)
+                if (loginAtual == professor.login && senhaAtual == professor.senha)
                 {
                     Console.WriteLine("Login Realizado com Sucesso"); 
                     return true;             
                 }
             }
-            tentativas = tentativas-1;
+            tentativas--;
 
             Console.WriteLine("Login/Senha incorretos");
             Console.WriteLine($"Você ainda tem {tentativas} tentativas");
 
-        }while(tentativas!=0);
+        } while (tentativas > 0); // Condição corrigida
 
-        return false;
-        
+        return false;        
     }
-
-
 }

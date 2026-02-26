@@ -8,23 +8,23 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\GiovanniRodriguesdeL\\.nuget\\packages\\": {},
+    "C:\\Users\\RenandeVasconcelosTa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GiovanniRodriguesdeL\\escola\\escola.csproj",
+      "projectUniqueName": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj",
       "projectName": "escola",
-      "projectPath": "C:\\Users\\GiovanniRodriguesdeL\\escola\\escola.csproj",
-      "packagesPath": "C:\\Users\\GiovanniRodriguesdeL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GiovanniRodriguesdeL\\escola\\obj\\",
+      "projectPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj",
+      "packagesPath": "C:\\Users\\RenandeVasconcelosTa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\GiovanniRodriguesdeL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RenandeVasconcelosTa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

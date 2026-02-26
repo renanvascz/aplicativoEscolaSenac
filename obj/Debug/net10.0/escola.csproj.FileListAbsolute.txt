@@ -12,3 +12,18 @@ C:\Users\GiovanniRodriguesdeL\escola\obj\Debug\net10.0\refint\escola.dll
 C:\Users\GiovanniRodriguesdeL\escola\obj\Debug\net10.0\escola.pdb
 C:\Users\GiovanniRodriguesdeL\escola\obj\Debug\net10.0\escola.genruntimeconfig.cache
 C:\Users\GiovanniRodriguesdeL\escola\obj\Debug\net10.0\ref\escola.dll
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\bin\Debug\net10.0\escola.exe
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\bin\Debug\net10.0\escola.deps.json
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\bin\Debug\net10.0\escola.runtimeconfig.json
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\bin\Debug\net10.0\escola.dll
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\bin\Debug\net10.0\escola.pdb
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.AssemblyInfoInputs.cache
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.AssemblyInfo.cs
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.csproj.CoreCompileInputs.cache
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.sourcelink.json
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.dll
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\refint\escola.dll
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.pdb
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\escola.genruntimeconfig.cache
+C:\Users\RenandeVasconcelosTa\Documents\Atividade de C Sharp\Clone\aplicativoEscolaSenac\obj\Debug\net10.0\ref\escola.dll
