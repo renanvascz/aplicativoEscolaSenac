@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj": {}
+    "C:\\Users\\RenandeVasconcelosTa\\Documents\\Clone\\aplicativoEscolaSenac\\escola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj": {
+    "C:\\Users\\RenandeVasconcelosTa\\Documents\\Clone\\aplicativoEscolaSenac\\escola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj",
+        "projectUniqueName": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Clone\\aplicativoEscolaSenac\\escola.csproj",
         "projectName": "escola",
-        "projectPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\escola.csproj",
+        "projectPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Clone\\aplicativoEscolaSenac\\escola.csproj",
         "packagesPath": "C:\\Users\\RenandeVasconcelosTa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Atividade de C Sharp\\Clone\\aplicativoEscolaSenac\\obj\\",
+        "outputPath": "C:\\Users\\RenandeVasconcelosTa\\Documents\\Clone\\aplicativoEscolaSenac\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
